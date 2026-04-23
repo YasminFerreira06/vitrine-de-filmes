@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'segoe UT', Tohoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+   background-color: #141414;
+   color:aliceblue
+}
+
+/*Header e Navbar*/
+header {
+    background-color: #141414;
+    padding: 1rem 5%;
+}
