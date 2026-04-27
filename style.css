@@ -14,4 +14,7 @@ body {
 header {
     background-color: #141414;
     padding: 1rem 5%;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
